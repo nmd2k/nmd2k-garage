@@ -9,3 +9,5 @@ This is a collection of docker compose file for my personal server.
 - [Immich](./immich/README.md)
 - [Nextcloud](./nextcloud/README.md)
 - [Portainer](./portainer/README.md)
+- [Wireguard](./wireguard/README.md)
+- [Prometheus & node_exporter & Grafana](./grafana/README.md)
